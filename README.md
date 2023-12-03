@@ -54,4 +54,4 @@ Indica casos na qual o servidor está ciente do erro e é incapaz de performar a
     
 ---
       
-  * Autor do resumo: Gabriel Pacheco Farias - 01427378
+   Autor do resumo: Gabriel Pacheco Farias - 01427378
